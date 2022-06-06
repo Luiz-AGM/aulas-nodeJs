@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/Luiz-AGM/aulas-nodeJs#readme",
   "dependencies": {
+    "eslint": "^8.16.0",
     "node-fetch": "^3.2.4"
+  },
+  "devDependencies": {
+    "prettier": "2.6.2"
   }
 }
